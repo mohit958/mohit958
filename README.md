@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit958
-- 👀 I’m interested in automation testing (Acquirirng knweldge of both java and python)
+- 👀 I’m interested in automation testing (Acquiring knoweldge of both java and python)
 - 🌱 I’m currently learning Java selenium web driver
 - 💞️ I’m looking to collaborate on automation research papers
 - 📫 How to reach me : mohitshinde22@gmail.com or +919561754112
